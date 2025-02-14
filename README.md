@@ -1,5 +1,3 @@
-Certainly! Below is a well-structured and visually appealing `README.md` file for your Hyprland and Arch Linux dotfiles repository. You can customize it further to suit your needs.
-
 ```markdown
 # Hyprland & Arch Linux Dotfiles
 
@@ -111,15 +109,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - Everyone who has shared their dotfiles and inspired this setup.
 
 ---
-
-Enjoy your new setup! If you have any questions, feel free to reach out. 😊
-```
-
-### Customization Tips:
-1. Replace `your-username` and `your-repo` with your actual GitHub username and repository name.
-2. Add your own screenshots to the `screenshots/` directory and update the paths accordingly.
-3. Update the **Theming** section with your actual theme names.
-4. Add or remove keybindings based on your configuration.
-5. Include any additional tools or scripts you use in the **Directory Structure** section.
 
 This `README.md` is designed to be clean, informative, and visually appealing, making it easy for others to understand and use your dotfiles.
